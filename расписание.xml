@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<schedule>
+		<lessons>
+			<day>Вт</day>
+			<time>08:20-09:50</time>
+			<week-num>5</week-num>
+			<room></room>
+			<lesson>Информатика(Лек): ZOOM</lesson>
+			<lesson-format>Дистанционный</lesson-format>
+			<teacher>Балакшин Павел Валерьевич</teacher>
+		</lessons>
+		<lessons>
+			<day></day>
+			<time>08:20-09:50</time>
+			<week-num>3</week-num>
+			<week-num>7</week-num>
+			<week-num>9</week-num>
+			<week-num>11</week-num>
+			<week-num>13</week-num>
+			<week-num>15</week-num>
+			<week-num>17</week-num>
+			<room>ул.Ломоносова, д.9, лит. М</room>
+			<lesson>ИНФОРМАТИКА(ЛЕК): АКТОВЫЙ ЗАЛ</lesson>
+			<lesson-format>Очно - дистанционный</lesson-format>
+			<teacher>Балакшин Павел Валерьевич</teacher>
+		</lessons>
+		<lessons>
+			<day></day>
+			<time>10:00-11:30</time>
+			<week-num>3</week-num>
+			<week-num>7</week-num>
+			<week-num>9</week-num>
+			<week-num>11</week-num>
+			<week-num>13</week-num>
+			<week-num>15</week-num>
+			<week-num>17</week-num>
+			<room>ул.Ломоносова, д.9, лит. М</room>
+			<lesson>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК): АКТОВЫЙ ЗАЛ</lesson>
+			<lesson-format>Очно - дистанционный</lesson-format>
+			<teacher>Клименков Сергей Викторович</teacher>
+		</lessons>
+		<lessons>
+			<day></day>
+			<time>10:00-11:30</time>
+			<week-num>2</week-num>
+			<week-num>4</week-num>
+			<week-num>6</week-num>
+			<week-num>8</week-num>
+			<week-num>10</week-num>
+			<week-num>12</week-num>
+			<week-num>14</week-num>
+			<week-num>16</week-num>
+			<auditorium>2306/2 (БЫВШ. 305) АУД.</auditorium>
+			<room>Кронверкский пр., д.49, лит.А</room>
+			<lesson>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛАБ)</lesson>
+			<lesson-format>Очно - дистанционный</lesson-format>
+			<parity>четная неделя</parity>
+			<teacher>Ткешелашвили Нино Мерабиевна</teacher>
+		</lessons>
+		<lessons>
+			<day></day>
+			<time>10:00-11:30</time>
+			<week-num>5</week-num>
+			<room>ул.Ломоносова, д.9, лит. М</room>
+			<lesson>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК): ZOOM</lesson>
+			<lesson-format>Дистанционный</lesson-format>
+			<teacher>Клименков Сергей Викторович</teacher>
+		</lessons>
+		<lessons>
+			<day></day>
+			<time>11:40-13:10</time>
+			<week-num>3</week-num>
+			<week-num>7</week-num>
+			<week-num>9</week-num>
+			<week-num>11</week-num>
+			<week-num>13</week-num>
+			<week-num>15</week-num>
+			<week-num>17</week-num>
+			<auditorium>1223 АУД.</auditorium>
+			<room>ул.Ломоносова, д.9, лит. М</room>
+			<lesson>ПРОГРАММИРОВАНИЕ(ЛЕК)</lesson>
+			<lesson-format>Очно - дистанционный</lesson-format>
+			<teacher>Письмак Алексей Евгеньевич</teacher>
+		</lessons>
+		<lessons>
+			<day></day>
+			<time>11:40-13:10</time>
+			<week-num>5</week-num>
+			<auditorium></auditorium>
+			<room></room>
+			<lesson>ПРОГРАММИРОВАНИЕ(ЛЕК): ZOOM</lesson>
+			<lesson-format>Дистанционный</lesson-format>
+			<teacher>Письмак Алексей Евгеньевич</teacher>
+		</lessons>
+		<lessons>
+			<day></day>
+			<time>11:40-13:10</time>
+			<week-num>2</week-num>
+			<week-num>4</week-num>
+			<week-num>6</week-num>
+			<week-num>8</week-num>
+			<week-num>10</week-num>
+			<week-num>12</week-num>
+			<week-num>14</week-num>
+			<week-num>16</week-num>
+			<auditorium>2306/2 (БЫВШ. 305) АУД.</auditorium>
+			<room>Кронверкский пр., д.49, лит.А</room>
+			<lesson>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛАБ)</lesson>
+			<lesson-format>Очно - дистанционный</lesson-format>
+			<parity>четная неделя</parity>
+			<teacher>Ткешелашвили Нино Мерабиевна</teacher>
+		</lessons>
+	</schedule>
+</root>
